@@ -14,7 +14,7 @@ const manifest = {
     servers: {
       default: {
         transport: "http",
-        url: "https://chatgpt-app-demo.ynonp.deno.net/mcp"
+        url: "https://chatgpt-app-demo.erezoren.deno.net/mcp"
       }
     }
   }
